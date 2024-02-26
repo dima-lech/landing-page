@@ -9,3 +9,6 @@ Follow instructions here to set up and install WSL on Windows:
 Building WSL kernel:
 > https://github.com/dima-lech/wsl2-linux-kernel
 
+## QEMU
+
+*TBD...*
