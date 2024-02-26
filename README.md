@@ -11,4 +11,6 @@ Building WSL kernel:
 
 ## QEMU
 
-*TBD...*
+QEMU lab:
+> https://github.com/dima-lech/linux-course-qemu-lab
+
