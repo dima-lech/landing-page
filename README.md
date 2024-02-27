@@ -10,11 +10,13 @@ Follow instructions here to set up and install WSL on Windows:
 * To access WSL files from Windows navigate to *\\\\wsl$* path in explorer
 * To open files in Windows default program from WSL use `wslview <file>`
 
-Building WSL kernel: (only for WSL2)
-> https://github.com/dima-lech/wsl2-linux-kernel
+**Guides:**
+
+- **[Building WSL kernel](https://github.com/dima-lech/wsl2-linux-kernel)** (only for WSL2)
 
 ## QEMU
 
-QEMU lab:
-> https://github.com/dima-lech/linux-course-qemu-lab
+**Guides:**
+
+- **[QEMU lab](https://github.com/dima-lech/linux-course-qemu-lab)**
 
