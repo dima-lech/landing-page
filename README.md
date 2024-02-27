@@ -6,6 +6,7 @@ Follow instructions here to set up and install WSL on Windows:
 > https://learn.microsoft.com/en-us/windows/wsl/install
 * Recommended to use default settings and install Ubuntu distribution
 * Make sure to install WSL**2**
+* To close WSL terminal use either `exit` or *ctrl+d* in order to save commands history
 
 Building WSL kernel: (only for WSL2)
 > https://github.com/dima-lech/wsl2-linux-kernel
