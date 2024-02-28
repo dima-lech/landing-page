@@ -2,6 +2,8 @@
 
 ## WSL
 
+WSL can be used to work with a Linux distribution, without the need to dual boot or run a virtual machine. It is provided by Microsoft natively on Windows 10 and 11.
+
 Follow instructions here to set up and install WSL on Windows:
 > https://learn.microsoft.com/en-us/windows/wsl/install
 * Recommended to use default settings and install Ubuntu distribution
