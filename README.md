@@ -1,6 +1,4 @@
-# landing-page
-
-## WSL
+# WSL
 
 WSL can be used to work with a Linux distribution on Windows, without the need to dual boot or run a virtual machine. It is provided by Microsoft natively on Windows 10 and 11, and is relatively easy to install and use.
 
@@ -14,13 +12,20 @@ Follow instructions here to set up and install WSL on Windows:
   * To access WSL files from Windows navigate to *\\\\wsl$* path in explorer
   * To open files in Windows default program from WSL use `wslview <file>`
 
-**Guides:**
+## Guides
 
 - **[Building WSL kernel](https://github.com/dima-lech/wsl2-linux-kernel)** (only for WSL2)
 
-## QEMU
+# QEMU
 
-**Guides:**
+## Guides
 
-- **[QEMU lab](https://github.com/dima-lech/linux-course-qemu-lab)**
+- **[QEMU lab - Arm Versitile board](https://github.com/dima-lech/linux-course-qemu-lab)**
+
+# Raspberry Pi
+
+## Projects
+
+- **[Raspberry Pi 2 B - bare-metal software](https://github.com/dima-lech/raspberry-pi-2-baremetal)**
+
 
