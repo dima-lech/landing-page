@@ -20,7 +20,7 @@ Follow instructions here to set up and install WSL on Windows:
 
 ## Guides
 
-- **[QEMU lab - Arm Versitile board](https://github.com/dima-lech/linux-course-qemu-lab)**
+- **[QEMU lab - Arm Versatile board](https://github.com/dima-lech/linux-course-qemu-lab)**
 
 # Raspberry Pi
 
